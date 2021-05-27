@@ -19,7 +19,7 @@
   "repository": "github:naddison36/sol2uml",
   "license": "MIT",
   "dependencies": {
-    "@solidity-parser/parser": "^0.10.2",
+    "@solidity-parser/parser": "^0.12.0",
     "axios": "^0.21.1",
     "commander": "^3.0.2",
     "debug": "^4.3.2",
